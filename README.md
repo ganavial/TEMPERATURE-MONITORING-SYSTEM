@@ -89,3 +89,6 @@ Log temperature data to an SD card or send it to a cloud platform
 
 📝 Conclusion:
 The temperature monitoring system designed in this task successfully demonstrates how analog inputs can be used to simulate sensor data. Even with the limitations of the Tinkercad environment, the simulation closely resembles the behavior of a real-world embedded application. The project reinforces key embedded skills such as analog interfacing, sensor simulation, serial data output, and real-time data processing.
+
+OUTPUT
+![Image](https://github.com/user-attachments/assets/c0dce602-6b30-43ca-bb1b-04e66a0ed2e2)
