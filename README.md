@@ -92,4 +92,5 @@ The temperature monitoring system designed in this task successfully demonstrate
 
 OUTPUT
 ![Image](https://github.com/user-attachments/assets/c0dce602-6b30-43ca-bb1b-04e66a0ed2e2)
+![Image](https://github.com/user-attachments/assets/893b8be1-baa3-4ab4-984e-3b0846e6be2d)
 
